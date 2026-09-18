@@ -1,0 +1,6 @@
+{
+  "name": "STEMBLISS - Luxury Medical Concierge",
+  "description": "Elite Cross-Border Medical Concierge Connecting Global Patients with Korea's Premier Institutions for Stem Cell & Longevity Medicine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
